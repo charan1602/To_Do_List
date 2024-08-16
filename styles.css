@@ -1,4 +1,4 @@
-.main_container{
+#main_container{
     display: flex;
     align-items: center;
     justify-content: center;
@@ -29,6 +29,7 @@
     /* padding: 20px 20px 20px 20px ; */margin-left: 10px;margin-right: 10px;
     background-color: aquamarine;
     border-radius: 5px;
+    margin-top: 20px;
     /* margin-right: 3px; */
 }
 #filter{
@@ -45,4 +46,9 @@
 #description{
     margin-left: 10px;margin-right: 10px;   
     border-radius: 5px;
+}
+#priority{
+    border-radius: 5px;
+    margin-left: 10px;
+    margin-right: 10px;
 }
